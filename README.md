@@ -1,8 +1,7 @@
 ### 안녕하세요. 아직은 코린이입니다. 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyt06162)](https://github.com/syt06162)
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=syt06162">(https://solved.ac/syt06162) 
-
+<a href="www.naver.com"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=syt06162"></a>
 <!--
 
 **syt06162/syt06162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
