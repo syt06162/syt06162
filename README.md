@@ -1,7 +1,7 @@
 ### 안녕하세요. 아직은 코린이입니다. 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyt06162)](https://github.com/syt06162)
 
-<p align="right"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=syt06162"></p>
+<p align="right"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=syt06162">(www.naver.com)</p>
 
 
 <!--
