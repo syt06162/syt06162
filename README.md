@@ -1,4 +1,6 @@
+<!--
 ### 안녕하세요. 아직은 코린이입니다. 👋
+-->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyt06162)](https://github.com/syt06162)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=syt06162)](https://solved.ac/syt06162)
