@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 -->
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=syt06162&show_icons=true&hide_border=true)](https://github.com/syt06162)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syt06162&layout=compact)](https://github.com/syt06162)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syt06162&layout=compact&hide=jupyter%20notebook)](https://github.com/syt06162)
